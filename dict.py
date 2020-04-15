@@ -1,4 +1,7 @@
-#codeing: utf-8
+#coding=UTF-8
+
+#Задание 3.2
+
 #Словарь
 
 model = {
