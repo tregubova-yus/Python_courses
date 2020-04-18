@@ -12,7 +12,6 @@ def min_in_list(lst,k):
 			minimum = lst[i][k]
 	return(minimum)
 
-
 model = {
 	'Electrolux_IPE6440KF':34999,
 	'Hansa_BHI68313':20199,
