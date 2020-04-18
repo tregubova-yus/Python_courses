@@ -5,6 +5,7 @@
 #Оформить функцией поиск в словаре
 
 #найти минимальное значение
+
 def min_in_list(lst,k):
 	minimum = lst[0][k]
 	for i in range(len(lst)):
